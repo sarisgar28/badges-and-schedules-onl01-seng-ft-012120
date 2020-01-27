@@ -13,6 +13,6 @@ def badge_badge_maker_creator(array)
   end 
   return nuarray 
 end 
-
+# number
     
     
