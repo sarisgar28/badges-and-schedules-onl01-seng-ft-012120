@@ -6,6 +6,7 @@ end
 
 def badge_badge_maker_creator(array)
   nuarray= []
+  counter = 0 
   array.each do |name|
     nuarray.push("Hello, #{name} you'll be assign to room #{counter}!")
     counter += ("1")
