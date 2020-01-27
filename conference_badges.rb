@@ -15,5 +15,6 @@ def badge_badge_maker_creator(array)
 end 
 #assign_rooms(people)
 
-   def  
+   def printer(array)
+     
     
