@@ -1,4 +1,4 @@
 People = ["Edsger", "Ada", "Charles", "Grace", "Linus", "Matz"]
-badge_maker 
+def badge_maker (name)
  
 end
