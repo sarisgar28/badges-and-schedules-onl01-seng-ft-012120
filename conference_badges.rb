@@ -6,4 +6,4 @@ end
 
 def badge_badge_maker_creator(array)
   nuarray= []
-  array.eachdo
+  array.each do 
